@@ -1,0 +1,109 @@
+*{
+    box-sizing: border-box;
+}
+body,html{
+    margin: 0;
+    padding: 0;
+    background-color: black;
+    color: white;
+}
+
+img{
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+}
+i{
+    font-size: 25px;
+    color: white;
+}
+a{
+    text-decoration: none;
+    color: white;
+    padding: 12px;
+}
+li{
+    cursor: pointer;
+    list-style: none;
+}
+
+.tweetle{
+    color: white;
+    width: 200px;
+    border-radius: 30px;
+    padding: 10px;
+    background-color: #00bfff;
+}
+.solkisim{
+    margin-left: 25px;
+    margin-bottom: 30px;
+}
+.profil1{
+    margin-top: 250px;
+    padding: 7px;
+}
+.profil1:hover{
+    cursor: pointer;
+    background-color:rgb(27, 27, 27);
+    border-radius: 50px;
+}
+.tweetle:hover{
+    background-color:  #199eca;
+
+}
+.tweetle1:hover{
+    background-color:  #199eca;
+
+}
+a:hover{
+    
+    border-radius: 50px;
+    background-color:rgb(27, 27, 27);
+}
+.sanaozel{
+    padding: 12px;
+}
+.sanaozel:hover{
+    cursor: pointer;
+    background-color:rgb(27, 27, 27);
+}
+.neleroluyor{
+    width: 100%;
+    padding:10px;
+    background-color: black;
+    border: none;
+    outline: none;
+    color: white;
+}
+.media i{
+    color: #00bfff;
+    font-size: 20px;
+}
+.tweetle1{
+    color: white;
+    width: 120px;
+    border-radius: 30px;
+    padding: 10px;
+    background-color: #00bfff;
+}
+.ara{
+    
+    background-color:rgb(48, 47, 47);
+    border-radius: 30px;
+}
+.ara input{
+    color: white;
+    outline:none;
+    background-color:rgb(48, 47, 47);
+    border-radius: 30px;
+    border: none;
+    
+}
+.ara i{
+    color:rgb(83, 81, 81);
+    font-size: 20px;
+}
+.kesfetbaslik{
+    border-radius: 15px;
+    background-color:rgb(48, 47, 47);
+}
